@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Software Developer | 🧠 AI/ML & Web Dev Enthusiast | 🏆 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Second+Year+Undergrad+@+TIET;AI%2FML+%7C+Web+Development+%7C+DSA;Hackathon+Lover+%7C+Fast+Learner+%7C+Team+Player;Building+Cool+%26+Impactful+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Second+Year+Undergrad+@+TIET;AI%2FML+%7C+Web+Development+%7C+DSA;%7C+Fast+Learner+%7C+Team+Player;Building+Cool+%26+Impactful+Projects" />
 </p>
 
 ---
