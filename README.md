@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **Second-year Computer Engineering student** at Thapar Institute of Engineering and Technology  
+- 🎓 **Pre Final-year Computer Engineering student** at Thapar Institute of Engineering and Technology  
 - 🧠 Strong foundation in **Data Structures, Algorithms, AI/ML, and Web Development**
 - 📊 **9.88 CGPA** with a **Merit Scholarship** for academic excellence  
 - 🏅 **Runner-up** in MLSC Hackathon and CSS Coding Marathon  
