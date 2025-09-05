@@ -11,7 +11,7 @@
 
 - 🎓 **Pre Final-year Computer Engineering student** at Thapar Institute of Engineering and Technology  
 - 🧠 Strong foundation in **Data Structures, Algorithms, AI/ML, and Web Development**
-- 📊 **9.88 CGPA** with a **Merit Scholarship** for academic excellence  
+- 📊 **9.83 CGPA** with a **Merit Scholarship** for academic excellence  
 - 🏅 **Runner-up** in MLSC Hackathon and CSS Coding Marathon  
 - 💻 Active participant in **coding challenges** and **hackathons** – love solving real-world problems  
 - 🔥 Fast learner, enthusiastic collaborator, and obsessed with clean code & innovation  
