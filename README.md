@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Pooja Bisht
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+%26+Full+Stack+Developer;Problem+Solver+%7C+Competitive+Programmer;Building+Impactful+Solutions;Open+to+Collaborations!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=AI%2FML+%26+Full+Stack+Developer;Problem+Solver+%7C+Competitive+Programmer;Building+Impactful+Solutions;Open+to+Collaborations!" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=poojabisht10&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/poojabisht10)
 
