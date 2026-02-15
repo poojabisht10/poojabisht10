@@ -130,16 +130,6 @@ const pooja = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/poojabisht10/poojabisht10/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🏆 Achievements & Highlights
 
 - 🥇 **Merit-1 Scholarship** recipient at TIET for academic excellence (Top 50 students institute-wide)
