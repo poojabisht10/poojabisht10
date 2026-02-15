@@ -121,16 +121,22 @@ const pooja = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Pooja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poojabisht10&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=poojabisht10&theme=react&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojabisht10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9)
+![](https://github-readme-stats.vercel.app/api?username=poojabisht10&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=poojabisht10&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=poojabisht10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=poojabisht10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -146,7 +152,7 @@ const pooja = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=poojabisht10&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/poojabisht10)
+<img src="https://github-profile-trophy.vercel.app/?username=poojabisht10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 
 </div>
 
