@@ -142,12 +142,6 @@ const pooja = {
 
 ## 🏆 Achievements & Highlights
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=poojabisht10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-
-</div>
-
 - 🥇 **Merit-1 Scholarship** recipient at TIET for academic excellence (Top 50 students institute-wide)
 - 🥈 **Runner-up** in CCS Coding Marathon (100+ teams)
 - 🥈 **Runner-up** in MLSC Internal Hackathon
