@@ -130,14 +130,6 @@ const pooja = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=poojabisht10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
