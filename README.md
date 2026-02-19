@@ -14,7 +14,7 @@
 
 ```typescript
 const pooja = {
-    location: "Patiala, Punjab 🇮🇳",
+    location: "Dehradun, Uttarakhand 🇮🇳",
     education: "B.Tech Computer Engineering @ TIET",
     cgpa: "9.63/10 🏆",
     status: "Pre-Final Year | Merit-1 Scholarship Holder",
