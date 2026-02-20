@@ -81,7 +81,6 @@ const pooja = {
 ![VS Code](https://img.shields.io/badge/VS_Code-2C3E50?style=for-the-badge&logo=visualstudiocode&logoColor=ECF0F1)
 ![Google Colab](https://img.shields.io/badge/Colab-2C3E50?style=for-the-badge&logo=googlecolab&logoColor=ECF0F1)
 ![Postman](https://img.shields.io/badge/Postman-2C3E50?style=for-the-badge&logo=postman&logoColor=ECF0F1)
-```
 
 
 ## 🎯 Featured Projects
