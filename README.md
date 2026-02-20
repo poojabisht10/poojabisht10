@@ -48,38 +48,41 @@ const pooja = {
 ## 🛠️ Tech Stack & Tools
 
 ### **Languages**
-![C++](https://img.shields.io/badge/C++-2d2d2d?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-2d2d2d?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2d2d2d?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2d2d2d?style=flat&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2d2d2d?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2d2d2d?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2d2d2d?style=flat&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2C3E50?style=for-the-badge&logo=cplusplus&logoColor=ECF0F1)
+![C](https://img.shields.io/badge/C-2C3E50?style=for-the-badge&logo=c&logoColor=ECF0F1)
+![Python](https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=ECF0F1)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C3E50?style=for-the-badge&logo=javascript&logoColor=ECF0F1)
+![SQL](https://img.shields.io/badge/SQL-2C3E50?style=for-the-badge&logo=postgresql&logoColor=ECF0F1)
+![HTML5](https://img.shields.io/badge/HTML5-2C3E50?style=for-the-badge&logo=html5&logoColor=ECF0F1)
+![CSS3](https://img.shields.io/badge/CSS3-2C3E50?style=for-the-badge&logo=css3&logoColor=ECF0F1)
+![TypeScript](https://img.shields.io/badge/TypeScript-2C3E50?style=for-the-badge&logo=typescript&logoColor=ECF0F1)
+
 ### **Web Development**
-![React](https://img.shields.io/badge/React-2d2d2d?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-2d2d2d?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-2d2d2d?style=flat&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2d2d2d?style=flat&logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-2d2d2d?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-2C3E50?style=for-the-badge&logo=react&logoColor=ECF0F1)
+![Node.js](https://img.shields.io/badge/Node.js-2C3E50?style=for-the-badge&logo=nodedotjs&logoColor=ECF0F1)
+![Express.js](https://img.shields.io/badge/Express.js-2C3E50?style=for-the-badge&logo=express&logoColor=ECF0F1)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-2C3E50?style=for-the-badge&logo=tailwind-css&logoColor=ECF0F1)
+![Flask](https://img.shields.io/badge/Flask-2C3E50?style=for-the-badge&logo=flask&logoColor=ECF0F1)
+
 ### **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2d2d2d?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-2d2d2d?style=flat&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2d2d2d?style=flat&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2d2d2d?style=flat&logo=pytorch&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-2d2d2d?style=flat&logo=mathworks&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2C3E50?style=for-the-badge&logo=tensorflow&logoColor=ECF0F1)
+![OpenCV](https://img.shields.io/badge/OpenCV-2C3E50?style=for-the-badge&logo=opencv&logoColor=ECF0F1)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2C3E50?style=for-the-badge&logo=scikitlearn&logoColor=ECF0F1)
+![PyTorch](https://img.shields.io/badge/PyTorch-2C3E50?style=for-the-badge&logo=pytorch&logoColor=ECF0F1)
+![MATLAB](https://img.shields.io/badge/MATLAB-2C3E50?style=for-the-badge&logo=mathworks&logoColor=ECF0F1)
 
 ### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-2d2d2d?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-2d2d2d?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2C3E50?style=for-the-badge&logo=mongodb&logoColor=ECF0F1)
+![MySQL](https://img.shields.io/badge/MySQL-2C3E50?style=for-the-badge&logo=mysql&logoColor=ECF0F1)
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-2d2d2d?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2d2d2d?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-2d2d2d?style=flat&logo=visualstudiocode&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-2d2d2d?style=flat&logo=googlecolab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-2d2d2d?style=flat&logo=postman&logoColor=white)
----
+![Git](https://img.shields.io/badge/Git-2C3E50?style=for-the-badge&logo=git&logoColor=ECF0F1)
+![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=ECF0F1)
+![VS Code](https://img.shields.io/badge/VS_Code-2C3E50?style=for-the-badge&logo=visualstudiocode&logoColor=ECF0F1)
+![Google Colab](https://img.shields.io/badge/Colab-2C3E50?style=for-the-badge&logo=googlecolab&logoColor=ECF0F1)
+![Postman](https://img.shields.io/badge/Postman-2C3E50?style=for-the-badge&logo=postman&logoColor=ECF0F1)
+```
+
 
 ## 🎯 Featured Projects
 
