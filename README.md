@@ -132,6 +132,7 @@ const pooja = {
 ## 🏆 Achievements & Highlights
 
 - 🥇 **Merit-1 Scholarship** recipient at TIET for academic excellence (Top 50 students institute-wide)
+- 1000+ problems on coding platforms
 - 🥈 **Runner-up** in CCS Coding Marathon (100+ teams)
 - 🥈 **Runner-up** in MLSC Internal Hackathon
 - ✅ Cleared internal round of **Smart India Hackathon** (250+ teams)
