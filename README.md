@@ -83,7 +83,7 @@ const pooja = {
 ![Postman](https://img.shields.io/badge/Postman-2C3E50?style=for-the-badge&logo=postman&logoColor=ECF0F1)
 
 
-### **Featured Projects**
+## **Featured Projects**
  
 <br>
  
