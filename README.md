@@ -83,37 +83,22 @@ const pooja = {
 ![Postman](https://img.shields.io/badge/Postman-2C3E50?style=for-the-badge&logo=postman&logoColor=ECF0F1)
 
 
-## 🎯 Featured Projects
-
-### 🔍 [CivicLens](https://github.com/poojabisht10/civiclens) - Civic Issue Detection Platform
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-🚀 **AI-driven civic issue detection system** to classify images such as potholes, garbage, and waterlogging
-- Trained and deployed a **CNN-based image classification model** with real-time inference
-- Built scalable **Flask backend** with REST APIs for image uploads and prediction handling
-- Structured issue categorization for civic management systems
-
-### 📄 [Aptly](https://github.com/poojabisht10/aptly) - AI Resume Optimizer
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-🎯 **AI-powered resume/cover letter optimizer** tailored to job descriptions with ATS scoring
-- Integrated **Gemini API** for intelligent resume analysis and suggestions
-- Implemented resume/job uploads, detailed analysis reports, and history tracking
-- Enhanced job application success rate with keyword relevance checks
-
-### 📦 [SmartShelf](https://github.com/poojabisht10/smartshelf) - Inventory Optimization System
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-
-📊 **Smart inventory management system** monitoring products, stock levels, and shelf status in real-time
-- Performed extensive **model benchmarking** (YOLOv8, EfficientNet, MobileNetV2, ResNet)
-- Achieved **real-time detection** and high classification accuracy using GPU-enabled environments
-- Optimized for accuracy and inference speed
+### **Featured Projects**
+ 
+<br>
+ 
+<div align="center">
+ 
+| # | Project | Description | Tech Stack | Repo |
+|:--:|:--|:--|:--|:--:|
+| 1 | **🔍 CivicLens** | AI-driven civic issue detection system — classifies images (potholes, garbage, waterlogging) using a custom-trained CNN with real-time inference & REST API | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-Model-blueviolet?style=flat-square) | [View →](https://github.com/poojabisht10/civiclens) |
+| 2 | **📄 Aptly** | AI-powered resume & cover letter optimizer — ATS scoring, keyword relevance checks, and Gemini-driven analysis tailored to job descriptions | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [View →](https://github.com/poojabisht10/aptly) |
+| 3 | **📦 SmartShelf** | Real-time inventory monitoring system — benchmarked YOLOv8, EfficientNet, MobileNetV2 & ResNet; optimized for detection accuracy and inference speed | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | [View →](https://github.com/poojabisht10/smartshelf) |
+| 4 | **📊 TOPSIS** | Multi-criteria decision making tool implementing TOPSIS algorithm for ranking alternatives across weighted criteria | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![CLI](https://img.shields.io/badge/CLI_Tool-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | [View →](https://github.com/poojabisht10) |
+ 
+</div>
+ 
+<br>
 
 ---
 
