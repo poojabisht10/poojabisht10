@@ -25,11 +25,11 @@ const pooja = {
 ```
 
 🎯 **Quick Highlights:**
-- 🧠 **AI/ML Research Intern** at DRDO (IRDE) - Developed lightweight vision-based detection algorithms
-- 💻 Strong foundation in **DSA, AI/ML, Full Stack Development**
-- 🏆 **Runner-up** in CCS Coding Marathon & MLSC Hackathon
-- 🔥 Passionate about solving real-world problems through technology
-- 📚 Continuous learner | Active contributor | Team player
+- **AI/ML Research Intern** at DRDO (IRDE) - Developed lightweight vision-based detection algorithms
+- Strong foundation in **DSA, AI/ML, Full Stack Development**
+- **Runner-up** in CCS Coding Marathon & MLSC Hackathon
+- Passionate about solving real-world problems through technology
+- Continuous learner | Active contributor | Team player
 
 ---
 
@@ -114,13 +114,13 @@ const pooja = {
 
 ## 🏆 Achievements & Highlights
 
-- 🥇 **Merit-1 Scholarship** recipient at TIET for academic excellence (Top 50 students institute-wide)
+- **Merit-1 Scholarship** recipient at TIET for academic excellence (Top 50 students institute-wide)
 - 1000+ problems on coding platforms
-- 🥈 **Runner-up** in CCS Coding Marathon (100+ teams)
-- 🥈 **Runner-up** in MLSC Internal Hackathon
-- ✅ Cleared internal round of **Smart India Hackathon** (250+ teams)
-- 👨‍💼 **Coordinator** at Microsoft Learn Student Chapter (MLSC) TIET
-- 🤝 **Core Member** at Youth United Patiala Chapter (NGO)
+- **Runner-up** in CCS Coding Marathon (100+ teams)
+- **Runner-up** in MLSC Internal Hackathon
+- Cleared internal round of **Smart India Hackathon** (250+ teams)
+- **Coordinator** at Microsoft Learn Student Chapter (MLSC) TIET
+- **Core Member** at Youth United Patiala Chapter (NGO)
 
 ---
 
